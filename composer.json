@@ -1,0 +1,17 @@
+{
+    "name": "stdev/framework",
+    "description": "mvc inspire de laravel",
+    "autoload": {
+        "psr-4": {
+            "Stdev\\Framework\\": "src/",
+            "App\\Controllers\\":"app/Controller",
+            "App\\Models\\":"app/Models"
+        }
+    },
+    "authors": [
+        {
+            "name": "st-dev"
+        }
+    ],
+    "require": {}
+}
